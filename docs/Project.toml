@@ -1,0 +1,6 @@
+[deps]
+ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
+ 
+[compat]
+Documenter = "1.1.1"
+

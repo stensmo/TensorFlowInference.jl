@@ -5,7 +5,7 @@ version = "0.1.0"
 
 [deps]
 ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
-
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
 
 [compat]
 ProtoBuf = "1.0"
@@ -14,6 +14,7 @@ ProtoBuf = "1.0"
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 
 [targets]
 test = ["Test"]
